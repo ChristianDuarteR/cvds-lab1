@@ -7,3 +7,4 @@ Datos Personales
 * **Genero:** Masculino
 * **Carrera Profesional:**  Ing De Sistemas 
 * **Git:** <sup> https://github.com/JohannBulls </sup> 
+- [x] [Imagen](https://docs.github.com/assets/cb-39745/mw-1440/images/help/writing/image-rendered.webp)

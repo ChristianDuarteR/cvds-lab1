@@ -1,5 +1,6 @@
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES: Christian Duarte, Johann Amaya
+AUTORES: Christian Duarte
+	 Johann Amaya
 
 CAPITULO UNO
 

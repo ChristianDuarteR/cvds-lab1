@@ -13,9 +13,15 @@
 
 Un poco acerca de mi es que me gusta la **musica**.
 
+![Imagen violin](https://www.soyvisual.org/fotos/violin)
+
 Tambien me gusta trotar.
 
 Y tambien me gusta programar.
 
 
 [Este es mi perfil de github](https://github.com/ChristianDuarteR)
+
+
+
+print("Hola mundo");

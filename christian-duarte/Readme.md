@@ -19,12 +19,13 @@ Tambien me gusta trotar.
 
 Y tambien me gusta programar.
 
-
 [Este es mi perfil de github](https://github.com/ChristianDuarteR)
 
 
-![imagen_2](C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1)
+![Imagen](C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1.png)
+<html>
+    <img src="C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1.png">
+    <img src="C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 2.png">
 
-![imagen_2](C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1)
-
+</html>
 print("Hola mundo");

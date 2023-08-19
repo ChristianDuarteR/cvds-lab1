@@ -21,11 +21,4 @@ Y tambien me gusta programar.
 
 [Este es mi perfil de github](https://github.com/ChristianDuarteR)
 
-
-![Imagen](C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1.png)
-<html>
-    <img src="C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1.png">
-    <img src="C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 2.png">
-
-</html>
 print("Hola mundo");

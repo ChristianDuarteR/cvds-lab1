@@ -23,5 +23,8 @@ Y tambien me gusta programar.
 [Este es mi perfil de github](https://github.com/ChristianDuarteR)
 
 
+![imagen_2](C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1)
+
+![imagen_2](C:\Users\CHRISTIAN DUARTE\Desktop\Nueva carpeta\cvds-lab1\christian-duarte\captura 1)
 
 print("Hola mundo");
